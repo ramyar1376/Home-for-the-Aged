@@ -1,0 +1,398 @@
+
+@import 'fonts.css';
+
+
+.first-image{
+    background-image: url("assets/images/first_image.jpg");
+    width: 100%;
+    height: 900px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+.container{
+    position: absolute;
+    top: 0%;
+    right: 0%;
+    font-family: Roboto-Black;
+    height: 800px;
+}
+
+
+
+.navo{
+    z-index: 1;
+    position: absolute;
+    top: 0%;
+}
+.texts-header{
+    margin-top: 5%;
+}
+
+
+.texts-header h5{
+    display: inline;
+}
+
+.contact-us-now-form{
+    width: 23em;
+    height: 470px;
+    background-color: #a1d6e8;
+    border-radius: 20px;
+    margin-left: 50px;
+    text-align: center;
+    
+}
+
+input[type="text"]{
+    margin-top: 30px;
+    width: 18em;
+}
+
+
+.contact-us-now-form button{
+    margin-top: 25px;
+    background-color: #fb8312;
+}
+
+
+#contents-header{
+    height: 800px;
+}
+
+#header-body-content-texts{
+    height: 700px;
+}
+
+.section{
+    
+    height: 400px;
+    margin-top: 50px;
+    
+   
+}
+
+.header-body-content{
+    padding-left: 100px;
+    margin-top: 80px;
+}
+
+
+.body-companies-we-work-with{
+    width: 100%;
+    height: 200px;
+    background-color: #63afc9;
+    text-align: center;
+     padding-top: 5%;
+     color: white;
+  
+  
+    
+}
+
+
+
+.easy-setup-by-step-process{
+    width: 60em;
+    height: 450px;
+    /* margin-left:300px; */
+    background-color: white;
+    position: relative;
+    /* bottom: 10%; */
+    border-radius: 20px;
+}
+
+
+.car{
+    width: 60em;
+    height: 450px;
+    margin-left:200px;
+    background-color: blueviolet;
+    position: relative;
+    bottom: 10%;
+    border-radius: 20px;
+}
+
+
+
+
+
+.easy-setup-by-step-process-content-1>a>h1{
+padding-top: 15%;
+text-decoration: non;
+
+}
+
+
+.easy-setup-by-step-process-content-1>a>i{
+    padding-top: 20%;
+    text-decoration: non;
+    
+    }
+    #medico{
+        margin-top: 25%;
+    }
+
+
+    .easy-setup-by-step-process-content-2{
+
+        text-align: center;
+    }
+
+
+
+
+
+
+
+
+   .easy-setup-by-step-process-content-3{
+       width: 100% ;
+       height: 150px;
+       margin-bottom: 5%;
+       display: flex;
+       flex-direction: row;
+       justify-content: space-around;
+       align-content: flex-start;
+      
+   }
+
+
+
+
+
+
+    
+
+    .circle-1{
+        width: 8em;
+        height: 8em;
+        background-color: white;
+        border-radius: 300px;
+        border: 3px solid gray;
+        
+       
+      
+        
+    }
+
+
+
+    .circle-1-2{
+        width: 2em;
+        height: 2em;
+        background-color: #2b506a;
+        border-radius: 100px;
+        border: 1px solid;
+        margin-left: 45px;
+        position: relative;
+       bottom: 10%;
+      
+    }
+
+
+    
+
+
+
+    .circle-2{
+        width: 8em;
+        height: 8em;
+        background-color: white;
+        border-radius: 100px;
+        border: 3px solid gray;
+        
+        
+        
+    }
+
+
+    
+
+
+
+    .circle-2-2{
+        width: 2em;
+        height: 2em;
+        background-color: #2b506a;
+        border-radius: 100px;
+        border: 1px solid;
+        margin-left: 45px;
+       position: relative;
+       bottom: 10%;
+    }
+
+
+
+    .circle-3{
+        width: 8em;
+        height: 8em;
+        background-color: white;
+        border-radius: 100px;
+        border: 3px solid gray;
+        
+        
+        
+    }
+
+
+
+    .circle-3-2{
+        width: 2em;
+        height: 2em;
+        background-color: #2b506a;
+        border-radius: 100px;
+        border: 1px solid;
+        margin-left: 45px;
+       position: relative;
+       bottom: 10%;
+    }
+
+
+    .circle-4{
+        width: 8em;
+        height: 8em;
+        background-color: white;
+        border-radius: 100px;
+        border: 3px solid gray;
+       
+        
+        
+    }
+
+
+
+    .circle-4-2{
+        width: 2em;
+        height: 2em;
+        background-color: #2b506a;
+        border-radius: 100px;
+        border: 1px solid;
+        margin-left: 45px;
+       position: relative;
+       bottom: 10%;
+    }
+
+
+    .circle-1-2 h3{
+        text-align: center;
+    }
+
+
+    .circle-2-2 h3{
+        text-align: center;
+    }
+
+
+    .circle-3-2 h3{
+        text-align: center;
+    }
+
+
+    .circle-4-2 h3{
+        text-align: center;
+    }
+
+
+
+    .easy-setup-by-step-process-content-3 i{
+        margin-left: 40px;
+    }
+
+
+
+
+
+
+
+    .easy-setup-by-step-process-content-4{
+        width: 100% ;
+        height: 150px;
+        margin-bottom: 5%;
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        align-content: flex-start;
+       
+    }           
+
+
+    .easy-setup-by-step-process-content-3 section{
+       margin-top: 50%;
+       margin-left: 10%;
+    }
+
+
+    
+
+
+    .medicare-supplement-plan-advantage-text{
+        width: 50%;
+        height: 400px;
+        background-color: #63afc9;
+        padding-left: 5%;
+    }
+
+    .what-people-are-saying-content{
+        width: 100%;
+        height: 400px;
+        padding-top: 50px;
+    }
+
+
+    .what-people-are-saying-boxs{
+        padding-left: 15%;
+        
+    }
+
+
+
+    
+    .what-people-are-saying-boxs .john-smith{
+        width: 40%;
+        height: 250px;
+        border: 1px solid rgb(0, 174, 255);
+        border-radius: 20px;
+        padding-left:50px;
+    }
+
+
+    .what-people-are-saying-boxs .kevin-hall{
+        width: 40%;
+        height: 250px;
+       border-radius: 20px;
+        background-color: #2f5a7a;
+        margin-left: 5%;
+    }
+
+
+    .john-smith i{
+        padding-top: 20px;
+
+    }
+
+    .kevin-hall{
+        padding-left: 50px;
+    }
+
+
+
+    .kevin-hall i{
+        padding-top: 20px;
+    }
+
+
+
+
+    .footer{
+        width: 100%;
+        height: 100px;
+        background-color: #262626;
+        font-family: Roboto_Regular;
+    }
+
+    .medicare-supplement-plan-advantage-caption{
+        font-family:Roboto_Thin;
+    }
+    
